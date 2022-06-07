@@ -1,4 +1,4 @@
-Chương trình về trò chơi Kéo Búa Bao đơn giản(nhưng hình như chưa có ai tạo giao diện)
+Chương trình về trò chơi Kéo Búa Bao đơn giản
 Chương trình cho phép bạn chơi cùng với máy.
 Máy sẽ ra ngẫu nhiên kéo búa bao 
 Việc còn lại của bạn là chọn các biểu tượng
